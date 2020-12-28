@@ -12,7 +12,7 @@ author = "Xiaotong He"
 description = "My Blog"
 
 ## Set one of:
-# gravatar = "soho@example.com"
+# gravatar = "xiaotong071@gmail.com"
 profilePicture = "images/profile-1.png"
  
 copyright = "Xiaotong He"
@@ -53,13 +53,19 @@ customJs = ["js/blog.js"]
   name = "Posts"
   weight = 100
   identifier = "posts"
-  url = "/posts/"
+  url = "/post/"
 
   [[menu.main]]
   name = "About"
   identifier = "about"
-  weight = 300
+  weight = 200
   url = "/about/"
+
+  [[menu.main]]
+  name = "Contact"
+  identifier = "contact"
+  weight = 300
+  url = "/contact/"
 
 [taxonomies]
   category = "categories"
