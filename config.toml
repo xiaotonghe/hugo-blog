@@ -9,7 +9,7 @@ enableEmoji = true
 
 [params]
 author = "Xiaotong He"
-description = "My Blog"
+description = "Hello.py :)"
 
 ## Set one of:
 # gravatar = "xiaotong071@gmail.com"
@@ -50,16 +50,22 @@ customJs = ["js/blog.js"]
 [menu]
 
   [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
   name = "About"
   identifier = "about"
   weight = 200
   url = "/about/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 200
+  identifier = "projects"
+  url = "/project/"
 
   [[menu.main]]
   name = "Contact"

@@ -6,4 +6,4 @@ aliases = ["about-us","about-hugo"]
 author = "Hugo Authors"
 +++
 
-More about me is coming!
+Coming soon!
