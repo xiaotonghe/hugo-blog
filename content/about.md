@@ -12,7 +12,8 @@ I'm **Xiaotong** (she/her:computer:), recently finished my master degree in **Da
 
 Locate in:round_pushpin:**Chicago** (I love the city!!!)
 
-- I love coding, Python and JavaScript are my favourite languages. During school, I was a tutor for Python so feel free to ask me any questions about Python.\
+- I love coding, Python and JavaScript are my favourite languages. During school, I was a tutor for Python so feel free to ask me any questions about Python.
+
 - I'm also passionate about big data, AWS, machine learning(model building, deployment, scaling), web development, fintech. Open for positions in Data Analyst, Data Scientist, Developer(frontend & backend).
 
 - Skills:\
