@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Xiaotong He, hello.py"
 date = "2019-02-28"
 aliases = ["about-us","about-hugo"]
 author = "Hugo Authors"
@@ -12,7 +12,7 @@ I'm **Xiaotong** (she/her:computer:), recently finished my master degree in **Da
 
 Locate in:round_pushpin:**Chicago** (I love the city!!!)
 
-- I love coding, Python and JavaScript are my favourite languages. During school, I was a tutor for Python so feel free to ask me any questions about Python.
+- I love coding, Python and JavaScript are my favorite languages. During school, I was a tutor for Python so feel free to ask me any questions about Python.
 
 - I'm also passionate about big data, AWS, machine learning(model building, deployment, scaling), web development, fintech. Open for positions in Data Analyst, Data Scientist, Developer(frontend & backend).
 
@@ -23,13 +23,13 @@ Locate in:round_pushpin:**Chicago** (I love the city!!!)
   **AWS Services** S3, EC2, EMR, API Gateway, Sagemaker, Hive, Athena, Glue, Step Functions, Lambda, RDS
 
 Google, Youtube, Reddit and Stack Overflow are my good teachers :p\
-Here are some of my favourite Youtubers who have excellent coding tutorials, hope it helps!\
+Here are some of my favorite Youtubers who have excellent coding tutorials, hope it helps!\
 @[Mike Dane](https://www.youtube.com/c/GiraffeAcademy)\
 @[CS Dojo](https://www.youtube.com/c/CSDojo)\
 @[Krish Naik](https://www.youtube.com/user/krishnaik06)\
 @[Ken Jee](https://www.youtube.com/c/KenJee1)
 
-I'm trying to share my journey here, so stay tune :)
+I'm trying to share my journey here, so stay tuned :)
 
 Besides coding, I like cooking :rice:, traveling:airplane:, hiking:mountain_bicyclist: and making friends:blush:.
 

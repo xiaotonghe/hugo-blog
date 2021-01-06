@@ -6,9 +6,9 @@ draft: false
 
 Here are some of my projects.
 
-[Chicago Crime Classification](https://drive.google.com/file/d/1ZosrkLsCJGRl-uglg-zQXY2dUHrXg4o_/view?usp=sharing)
+### Data Science/ Machine Learning
 
-[Regression Analysis for Auto Insurance Claims Prediction](https://drive.google.com/file/d/1f3qcBBenzxSEFoc9LLUIvbx-9B-q2OBq/view?usp=sharing)
+[Chicago Crime Classification](https://drive.google.com/file/d/1ZosrkLsCJGRl-uglg-zQXY2dUHrXg4o_/view?usp=sharing)
 
 [Spam Messages Classification](https://drive.google.com/file/d/11QNnQlMzjCjGBaJNGZi3cSBBpumCHhg1/view?usp=sharing)
 
@@ -16,6 +16,12 @@ Here are some of my projects.
 
 [Color Transfer Between Images](https://drive.google.com/file/d/1UBJYOdAkRNVr1ISx6sinN-5_R4UHGk_m/view?usp=sharing)
 
-[Covid19 Interactive Dashboard using React.js](https://joshuacalloway.github.io/dsc468finalproject/)
+[Regression Analysis for Auto Insurance Claims Prediction](https://drive.google.com/file/d/1f3qcBBenzxSEFoc9LLUIvbx-9B-q2OBq/view?usp=sharing)
 
 [Targeting Customers: An Analysis of Machine Learning Techniques for Customer Segmentation and Predicting Customer-Value and Purchaser Revenue](https://drive.google.com/file/d/1jkOdsFub4wcVoT29tg9JdX5CYA9O5ceQ/view?usp=sharing)
+
+### Web Dev
+
+[Covid19 Interactive Dashboard using React.js](https://joshuacalloway.github.io/dsc468finalproject/)
+
+[Todo List Web App](https://github.com/xiaotonghe/Todo-app)
