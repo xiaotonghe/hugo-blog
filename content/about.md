@@ -8,11 +8,11 @@ author = "Hugo Authors"
 
 Hi Friends! :wave:
 
-I'm **Xiaotong** (she/her:computer:), recently finished my master degree in **Data Science** from DePaul University (Dec, 2020).
+I'm **Xiaotong** (she/her:computer:), recently finished Master's degree in **Data Science** from DePaul University (Dec, 2020).
 
-Locate in:round_pushpin:**Chicago** (I love the city!!!)
+Located in:round_pushpin:**Chicago** (I love the city!!!)
 
-- I love coding, Python and JavaScript are my favorite languages. During school, I was a tutor for Python so feel free to ask me any questions about Python.
+- I love coding! Python and JavaScript are my favorite languages. During school, I was a tutor for Python so feel free to ask me any questions about Python.
 
 - I'm also passionate about big data, AWS, machine learning(model building, deployment, scaling), web development, fintech. Open for positions in Data Analyst, Data Scientist, Developer(frontend & backend).
 
@@ -31,6 +31,6 @@ Here are some of my favorite Youtubers who have excellent coding tutorials, hope
 
 I'm trying to share my journey here, so stay tuned :)
 
-Besides coding, I like cooking :rice:, traveling:airplane:, hiking:mountain_bicyclist: and making friends:blush:.
+Besides coding, I like cooking :rice:, traveling:airplane:, hiking:mountain: and making friends:blush:.
 
 ![me](/images/m2.png)
